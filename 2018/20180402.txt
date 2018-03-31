@@ -1,2 +1,1 @@
-just a simple place holder to make sure that everything is working
-just a simple test - hello
+just a simple place holder
