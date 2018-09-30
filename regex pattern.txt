@@ -1,1 +1,5 @@
+old
 sub(.*\r\n.*\r\n.*\r\n.*\r\n.*\r\n?)
+
+new
+\n\d(.*)ments(.*\r\n.*\r\n.*\r\n.*\r\n.*\r\n.*\r\n.*\r\n.*\r\n.*\r\n.*\r\n.*\r\n.*\r\n)
