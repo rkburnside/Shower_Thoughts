@@ -2,4 +2,4 @@ old
 sub(.*\r\n.*\r\n.*\r\n.*\r\n.*\r\n?)
 
 new
-\n\d(.*)ments(.*\r\n.*\r\n.*\r\n.*\r\n.*\r\n.*\r\n.*\r\n.*\r\n.*\r\n.*\r\n.*\r\n.*\r\n)|Silver(.*\r\n)|Gold(.*\r\n)
+\n\d(.*)ments(.*\r\n.*\r\n.*\r\n.*\r\n.*\r\n.*\r\n.*\r\n.*\r\n.*\r\n.*\r\n.*\r\n.*\r\n)|Silver(.*\r\n)|Gold(.*\r\n)|Platinum(.*\r\n)
